@@ -1,5 +1,5 @@
 import java.io.*;
-public class SocialNetwork extends Person {
+public class SocialNetwork {
 
 	public static void main()throws IOException
 	{
@@ -44,7 +44,7 @@ public class SocialNetwork extends Person {
 				Person temP= new Person();
 				temP.lookUpFriend(mid,id);
 				break;
-			case(4):
+			
 				
 			
 				
